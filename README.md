@@ -1,6 +1,6 @@
-# we_care_foundation
+# we care foundation
 
-<img src="./assets/site-image.png" alt="Screenshot site"/>
+<img src="/assets/site-image.png" alt="Screenshot site"/>
 
 [![Build Status](https://travis-ci.org/condessalovelace/mavenquickstart.svg?branch=master)](https://travis-ci.org/condessalovelace/mavenquickstart)
 
